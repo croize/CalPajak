@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_b51cd4f0c6893152fb3fe61702601394c8c6a993\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_06df9a1f2c2afba9e0e846891c77ba3d27aa0c29\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_9de1c2d9ebe8ad134082d2f35e2e43aaf6fd0b87\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_25f344b68af94e794759e47d5ee8ae447f1dd66d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d040f3969f52565ff97daad74c423dd6cfb1c70f">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_51b4742312b329bca85b9ad4fa9e8b70057200a1\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_9a830be51b451c13dbed8d858ad360c7713381e6\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98a1644f2eb686ef14b5299527e2ff5d95aa401d">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e622ed61277c2e87ab829c3e52bc18535ab8d685\classes.dex" />
+    </item>
+    <item
+        jar="D:\Projek\Android Studio\Pajak\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Projek\Android Studio\Pajak\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_ac770fb7c2fb6e210446690d5cd0672d7c89fc29\classes.dex" />
+    </item>
+
+</items>

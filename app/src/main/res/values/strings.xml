@@ -1,0 +1,7 @@
+<resources>
+    <string name="ouput">Tampilan Output</string>
+    <string name="app_name">Tampilan Input</string>
+    <string name="nama">Nama :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="kirimdata">Kirim Data</string>
+</resources>
